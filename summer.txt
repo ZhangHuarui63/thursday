@@ -1,4 +1,9 @@
 summer is hot.
 
-#1st modification
+#1st modification $
 summer is rainy
+
+#2ed modification
+summer is sleepy
+
+#1st modification after push to github
